@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cageecho-signal-board.png" alt="CageEcho — let ideas out and make them echo" width="100%" />
+  <img src="./cageecho-signal-board-v3.png" alt="CageEcho — let ideas out and make them echo" width="100%" />
 </p>
 
 <p align="center">
