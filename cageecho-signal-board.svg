@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" role="img" aria-labelledby="title desc">
+  <title id="title">CageEcho Signal Board</title>
+  <desc id="desc">CageEcho public build log: listen, dissect, build, and echo.</desc>
+
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#d9d2c5" stroke-width="1" opacity="0.55" />
+    </pattern>
+
+    <filter id="softShadow" x="-10%" y="-10%" width="130%" height="140%">
+      <feDropShadow dx="10" dy="11" stdDeviation="0" flood-color="#1d1d1b" flood-opacity="1" />
+    </filter>
+
+    <filter id="cardShadow" x="-10%" y="-10%" width="130%" height="140%">
+      <feDropShadow dx="8" dy="9" stdDeviation="0" flood-color="#1d1d1b" flood-opacity="1" />
+    </filter>
+
+    <symbol id="bird" viewBox="-70 -82 140 164">
+      <ellipse cx="0" cy="69" rx="52" ry="10" fill="#d8b491" opacity="0.72" />
+      <path d="M-52 12C-51-27-29-57 0-58C31-59 53-28 54 13C55 49 35 66 0 67C-34 67-53 48-52 12Z" fill="#fffdf9" stroke="#1d1d1b" stroke-width="7" stroke-linejoin="round" />
+      <path d="M-12-56C-18-72-8-79 0-64C8-79 18-72 12-56" fill="#fffdf9" stroke="#1d1d1b" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M-48 20C-66 10-69 27-52 31" fill="#fffdf9" stroke="#1d1d1b" stroke-width="7" stroke-linecap="round" />
+      <path d="M48 20C66 10 69 27 52 31" fill="#fffdf9" stroke="#1d1d1b" stroke-width="7" stroke-linecap="round" />
+      <circle cx="-19" cy="4" r="5.5" fill="#1d1d1b" />
+      <circle cx="19" cy="4" r="5.5" fill="#1d1d1b" />
+      <ellipse cx="-31" cy="20" rx="12" ry="8" fill="#f8b8b4" opacity="0.72" />
+      <ellipse cx="31" cy="20" rx="12" ry="8" fill="#f8b8b4" opacity="0.72" />
+      <path d="M-7 12Q0 5 7 12Q0 21-7 12Z" fill="#f58f82" stroke="#1d1d1b" stroke-width="3" />
+      <path d="M-25 66Q-30 78-16 76" fill="none" stroke="#1d1d1b" stroke-width="7" stroke-linecap="round" />
+      <path d="M25 66Q30 78 16 76" fill="none" stroke="#1d1d1b" stroke-width="7" stroke-linecap="round" />
+    </symbol>
+  </defs>
+
+  <rect x="20" y="20" width="1560" height="720" rx="30" fill="#1d1d1b" />
+  <g filter="url(#softShadow)">
+    <rect x="20" y="20" width="1550" height="710" rx="30" fill="#f8f4eb" stroke="#1d1d1b" stroke-width="3" />
+    <rect x="20" y="20" width="1550" height="710" rx="30" fill="url(#grid)" />
+  </g>
+
+  <path d="M20 108H1570" stroke="#1d1d1b" stroke-width="3" />
+  <rect x="50" y="46" width="92" height="40" rx="20" fill="#1d1d1b" />
+  <text x="96" y="72" text-anchor="middle" fill="#fffdf9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="800" letter-spacing="1">CE</text>
+  <text x="165" y="72" fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="800" letter-spacing="2.6">CAGEECHO // PUBLIC BUILD LOG</text>
+  <text x="1538" y="72" text-anchor="end" fill="#706c65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">SIGNAL: LIVE</text>
+  <circle cx="1428" cy="67" r="6" fill="#74865a" />
+
+  <text x="100" y="165" fill="#c44b37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="800" letter-spacing="2.2">AI PRODUCT · BUILDER · CREATOR</text>
+  <text x="100" y="245" fill="#1d1d1b" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif" font-size="66" font-weight="800">让想法冲出笼子，</text>
+  <text x="100" y="320" fill="#1d1d1b" font-family="Georgia, 'Noto Serif SC', 'Songti SC', serif" font-size="66" font-weight="800">让作品留下回声<tspan fill="#c44b37">。</tspan></text>
+  <text x="102" y="368" fill="#6f6b64" font-family="Arial, 'Noto Sans SC', 'PingFang SC', sans-serif" font-size="24">听见真实问题，拆开产品与观点，再把判断做成可运行的东西。</text>
+  <text x="102" y="406" fill="#6f6b64" font-family="Arial, 'Noto Sans SC', 'PingFang SC', sans-serif" font-size="24">想法只有飞出笼子，才会遇见用户，并在世界里留下回声。</text>
+
+  <g filter="url(#cardShadow)">
+    <rect x="970" y="145" width="505" height="290" rx="16" fill="#fffdf8" stroke="#1d1d1b" stroke-width="3" />
+  </g>
+  <circle cx="1008" cy="183" r="8" fill="#c44b37" />
+  <circle cx="1036" cy="183" r="8" fill="#bf8b37" />
+  <circle cx="1064" cy="183" r="8" fill="#74865a" />
+  <text x="1438" y="189" text-anchor="end" fill="#706c65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">cage@echo ~ % whoami</text>
+  <path d="M970 216H1475" stroke="#d7d0c4" stroke-width="2" />
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19">
+    <text x="1010" y="258" fill="#2c7186" font-weight="800">[LISTEN]</text>
+    <text x="1135" y="258" fill="#1d1d1b">real needs / quiet signals</text>
+    <text x="1010" y="302" fill="#c44b37" font-weight="800">[DISSECT]</text>
+    <text x="1135" y="302" fill="#1d1d1b">products / ideas / systems</text>
+    <text x="1010" y="346" fill="#74865a" font-weight="800">[BUILD]</text>
+    <text x="1135" y="346" fill="#1d1d1b">AI tools / skills / MVPs</text>
+    <text x="1010" y="390" fill="#bf8b37" font-weight="800">[ECHO]</text>
+    <text x="1135" y="390" fill="#1d1d1b">ship / share / learn again</text>
+  </g>
+  <text x="1010" y="421" fill="#c44b37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="800">READY TO MAKE SOMETHING USEFUL</text>
+
+  <path d="M100 470H1490" stroke="#d0c9bd" stroke-width="2" />
+  <text x="100" y="507" fill="#706c65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.2">CURRENT LOOP</text>
+  <path d="M180 615C365 545 495 670 680 604S1010 540 1190 602S1390 621 1470 575" fill="none" stroke="#89857e" stroke-width="3" stroke-dasharray="10 14" />
+
+  <g transform="translate(185 577) scale(.52)"><use href="#bird" /></g>
+  <g transform="translate(600 581) scale(.63)"><use href="#bird" /></g>
+  <g transform="translate(1010 575) scale(.74)"><use href="#bird" /></g>
+  <g transform="translate(1390 566) scale(.86)"><use href="#bird" /></g>
+
+  <g fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="900" text-anchor="middle">
+    <text x="185" y="688">LISTEN</text>
+    <text x="600" y="688">DISSECT</text>
+    <text x="1010" y="688">BUILD</text>
+    <text x="1390" y="688">ECHO</text>
+  </g>
+  <text x="1520" y="708" text-anchor="end" fill="#c44b37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="900">PERSONAL SITE PORT: RESERVED →</text>
+</svg>
