@@ -74,16 +74,45 @@
   <text x="100" y="507" fill="#706c65" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2.2">CURRENT LOOP</text>
   <path d="M180 615C365 545 495 670 680 604S1010 540 1190 602S1390 621 1470 575" fill="none" stroke="#89857e" stroke-width="3" stroke-dasharray="10 14" />
 
-  <g transform="translate(185 577) scale(.52)"><use href="#bird" /></g>
-  <g transform="translate(600 581) scale(.63)"><use href="#bird" /></g>
-  <g transform="translate(1010 575) scale(.74)"><use href="#bird" /></g>
-  <g transform="translate(1390 566) scale(.86)"><use href="#bird" /></g>
+  <!-- Four self-contained vector characters with explicit viewports.
+       The fixed width/height values prevent GitHub from expanding symbol instances. -->
+  <use href="#bird" x="145" y="562" width="108" height="108" />
+
+  <use href="#bird" x="495" y="538" width="138" height="138" />
+  <g stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="541" cy="585" r="18" fill="#fffdf9" stroke-width="5" />
+    <circle cx="541" cy="585" r="10" fill="#f8f4eb" stroke-width="3" />
+    <path d="M528 598L515 613" stroke-width="6" />
+    <rect x="584" y="596" width="48" height="38" rx="4" fill="#fffdf9" stroke-width="4" transform="rotate(5 608 615)" />
+    <path d="M602 609C609 602 618 610 612 616C608 620 608 623 608 626" fill="none" stroke-width="2.5" />
+    <circle cx="608" cy="630" r="2" fill="#1d1d1b" stroke="none" />
+  </g>
+
+  <use href="#bird" x="865" y="516" width="168" height="168" />
+  <g stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M894 600L917 627" stroke="#f58f82" stroke-width="10" />
+    <path d="M893 599L899 594L922 622L917 629Z" fill="#f58f82" stroke-width="3" />
+    <rect x="965" y="595" width="68" height="52" rx="6" fill="#fffdf9" stroke-width="5" />
+    <rect x="986" y="582" width="28" height="14" rx="5" fill="#fffdf9" stroke-width="5" />
+    <path d="M967 613H1031" stroke-width="4" />
+    <rect x="977" y="608" width="20" height="31" fill="#f58f82" stroke-width="3" />
+    <rect x="998" y="621" width="22" height="18" fill="#f58f82" stroke-width="3" />
+    <rect x="1037" y="621" width="22" height="22" fill="#f58f82" stroke-width="4" />
+  </g>
+
+  <use href="#bird" x="1230" y="484" width="202" height="202" />
+  <g stroke="#1d1d1b" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1400 552C1418 532 1450 543 1451 570C1452 599 1422 620 1400 635C1377 620 1350 600 1350 570C1350 543 1382 532 1400 552Z" fill="#f58f82" stroke-width="6" />
+    <path d="M1379 560C1386 550 1394 548 1401 551" fill="none" stroke="#ffd2cd" stroke-width="6" />
+    <path d="M1471 552Q1492 570 1471 588" fill="none" stroke="#d8b491" stroke-width="6" />
+    <path d="M1488 538Q1518 570 1488 602" fill="none" stroke="#d8b491" stroke-width="6" />
+  </g>
 
   <g fill="#1d1d1b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" font-weight="900" text-anchor="middle">
-    <text x="185" y="688">LISTEN</text>
-    <text x="600" y="688">DISSECT</text>
-    <text x="1010" y="688">BUILD</text>
-    <text x="1390" y="688">ECHO</text>
+    <text x="205" y="706">LISTEN</text>
+    <text x="590" y="706">DISSECT</text>
+    <text x="980" y="706">BUILD</text>
+    <text x="1388" y="706">ECHO</text>
   </g>
-  <text x="1520" y="708" text-anchor="end" fill="#c44b37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="900">PERSONAL SITE PORT: RESERVED →</text>
+  <text x="1520" y="721" text-anchor="end" fill="#c44b37" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="900">PERSONAL SITE PORT: RESERVED →</text>
 </svg>
