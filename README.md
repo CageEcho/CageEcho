@@ -1,7 +1,7 @@
 <!-- PERSONAL_SITE_URL: 将下方 href 替换为你的个人网站地址即可 -->
 <p align="center">
   <a href="https://github.com/CageEcho?tab=repositories">
-    <img src="./cageecho-signal-board.svg?v=morandi-20260902" alt="CageEcho Signal Board — 让想法冲出笼子，让作品留下回声" width="100%" />
+    <img src="./cageecho-signal-board.svg?v=blue-clouds-restored-20260902" alt="CageEcho Signal Board — 让想法冲出笼子，让作品留下回声" width="100%" />
   </a>
 </p>
 
