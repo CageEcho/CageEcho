@@ -17,8 +17,8 @@
 我喜欢拆开一个产品，看清它为什么成立；也喜欢把脑海里的回声做成原型、工具和可复用的 AI Skills。对我来说，观点不该只停在文章里，代码也不该只停在仓库里——想法只有飞出笼子，才会遇见真实的用户。
 
 <p>
-  🧭 <a href="https://github.com/ZSYsabre?tab=repositories">全部项目</a>
-  &nbsp;·&nbsp; 💬 <a href="https://github.com/ZSYsabre">GitHub</a>
+  🧭 <a href="https://github.com/CageEcho?tab=repositories">全部项目</a>
+  &nbsp;·&nbsp; 💬 <a href="https://github.com/CageEcho">GitHub</a>
 </p>
 
 ---
@@ -27,10 +27,10 @@
 
 | Project | 它解决什么 | Live proof |
 | --- | --- | --- |
-| 🖥️ [wow-super-desktop](https://github.com/ZSYsabre/wow-super-desktop) | 把文件、知识库与 AI 放进一个本地优先的无限画布桌面 | ![stars](https://img.shields.io/github/stars/ZSYsabre/wow-super-desktop?style=flat-square&label=stars&color=151515) |
-| 🐾 [PET-MOUTHPIECE](https://github.com/ZSYsabre/PET-MOUTHPIECE) | 上传萌宠照片，一次生成 6 张可直接分享的中文毒舌表情包 | ![stars](https://img.shields.io/github/stars/ZSYsabre/PET-MOUTHPIECE?style=flat-square&label=stars&color=151515) |
-| 🎮 [Game-ai-skill](https://github.com/ZSYsabre/Game-ai-skill) | 用事实材料支撑游戏评测、玩法叙事拆解与 AI 开发复盘 | ![stars](https://img.shields.io/github/stars/ZSYsabre/Game-ai-skill?style=flat-square&label=stars&color=151515) |
-| ✍️ [write-sharp-skill](https://github.com/ZSYsabre/write-sharp-skill) | 把中文观点文章写得更有立场、有材料，也更值得讨论 | ![stars](https://img.shields.io/github/stars/ZSYsabre/write-sharp-skill?style=flat-square&label=stars&color=151515) |
+| 🖥️ [wow-super-desktop](https://github.com/CageEcho/wow-super-desktop) | 把文件、知识库与 AI 放进一个本地优先的无限画布桌面 | ![stars](https://img.shields.io/github/stars/CageEcho/wow-super-desktop?style=flat-square&label=stars&color=151515) |
+| 🐾 [PET-MOUTHPIECE](https://github.com/CageEcho/PET-MOUTHPIECE) | 上传萌宠照片，一次生成 6 张可直接分享的中文毒舌表情包 | ![stars](https://img.shields.io/github/stars/CageEcho/PET-MOUTHPIECE?style=flat-square&label=stars&color=151515) |
+| 🎮 [Game-ai-skill](https://github.com/CageEcho/Game-ai-skill) | 用事实材料支撑游戏评测、玩法叙事拆解与 AI 开发复盘 | ![stars](https://img.shields.io/github/stars/CageEcho/Game-ai-skill?style=flat-square&label=stars&color=151515) |
+| ✍️ [write-sharp-skill](https://github.com/CageEcho/write-sharp-skill) | 把中文观点文章写得更有立场、有材料，也更值得讨论 | ![stars](https://img.shields.io/github/stars/CageEcho/write-sharp-skill?style=flat-square&label=stars&color=151515) |
 
 ## 🎯 我在做什么
 
