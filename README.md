@@ -1,9 +1,12 @@
+<!-- PERSONAL_SITE_URL: 将下方 href 替换为你的个人网站地址即可 -->
 <p align="center">
-  <img src="./cageecho-signal-board-v3.png" alt="CageEcho — let ideas out and make them echo" width="100%" />
+  <a href="https://github.com/CageEcho?tab=repositories">
+    <img src="./cageecho-signal-board.svg" alt="CageEcho Signal Board — 让想法冲出笼子，让作品留下回声" width="100%" />
+  </a>
 </p>
 
 <p align="center">
-  让想法冲出笼子，让作品留下回声。
+  <sub>点击上方 Signal Board 查看项目 · 个人网站入口已预留</sub>
 </p>
 
 | **LISTEN** | **DISSECT** | **BUILD** | **ECHO** |
