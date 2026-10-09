@@ -30,10 +30,9 @@
 
 | Project | 它解决什么 | Live proof |
 | --- | --- | --- |
-| 🖥️ [wow-super-desktop](https://github.com/CageEcho/wow-super-desktop) | 把文件、知识库与 AI 放进一个本地优先的无限画布桌面 | ![stars](https://img.shields.io/github/stars/CageEcho/wow-super-desktop?style=flat-square&label=stars&color=151515) |
-| 🐾 [PET-MOUTHPIECE](https://github.com/CageEcho/PET-MOUTHPIECE) | 上传萌宠照片，一次生成 6 张可直接分享的中文毒舌表情包 | ![stars](https://img.shields.io/github/stars/CageEcho/PET-MOUTHPIECE?style=flat-square&label=stars&color=151515) |
-| 🎮 [Game-ai-skill](https://github.com/CageEcho/Game-ai-skill) | 用事实材料支撑游戏评测、玩法叙事拆解与 AI 开发复盘 | ![stars](https://img.shields.io/github/stars/CageEcho/Game-ai-skill?style=flat-square&label=stars&color=151515) |
-| ✍️ [write-sharp-skill](https://github.com/CageEcho/write-sharp-skill) | 把中文观点文章写得更有立场、有材料，也更值得讨论 | ![stars](https://img.shields.io/github/stars/CageEcho/write-sharp-skill?style=flat-square&label=stars&color=151515) |
+| 🧭 [行策](https://github.com/CageEcho/xingce-travel-planner) | 面向高端旅行顾问，生成 AI 行程方案，并用确定性代码完成约束校验与成本核算 | ![stars](https://img.shields.io/github/stars/CageEcho/xingce-travel-planner?style=flat-square&label=stars&color=151515) |
+| 📖 [途书旅记](https://github.com/CageEcho/Tushu-Travel-book) | 粘贴小红书攻略，自动生成百度地图多途径点动线 | ![stars](https://img.shields.io/github/stars/CageEcho/Tushu-Travel-book?style=flat-square&label=stars&color=151515) |
+| 🌳 [知树](https://github.com/CageEcho/zhihu-zhishu) | 让收藏长成自己的观点，构建一棵 AI 原生的个人知识树 | ![stars](https://img.shields.io/github/stars/CageEcho/zhihu-zhishu?style=flat-square&label=stars&color=151515) |
 
 ## 🎯 我在做什么
 
