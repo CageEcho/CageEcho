@@ -1,18 +1,35 @@
 <p align="center">
-  <img src="./cageecho-profile-hero.svg" alt="笼中对 CageEcho · 张书洋 · AI 产品经理。认真想，也动手做，把复杂需求做成可用的 AI 产品。" width="100%" />
+  <a href="#selected-work"><img src="./assets/profile-hero-blue.svg" alt="张书洋 / CageEcho · AI 产品经理 · 把复杂需求做成可用的 AI 产品" width="100%"/></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CageEcho?tab=repositories">查看全部项目</a>
-  &nbsp; · &nbsp;
+  <a href="#selected-work"><img src="./assets/view-projects.svg" alt="查看主要项目" width="200"/></a>
+  &nbsp;
+  <img src="./assets/personal-page-soon.svg" alt="个人网页筹备中，正式地址确认后开放" width="200"/>
+</p>
+
+<p align="center">
+  <a href="#selected-work">主要项目</a> ·
+  <a href="#personal-page">个人网页</a> ·
+  <a href="#how-i-build">产品能力</a> ·
   <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对</a>
 </p>
+
+## 关于我 / ABOUT
+
+我是 **张书洋 / CageEcho**，AI 产品经理。10+ 年互联网经验，从交互设计走向产品管理与 AI 产品实践。
+
+关注业务场景中的 **Agent、人机协同与交付验证**，把需求落为 PRD、交互原型与可运行 Demo，连接业务、体验与技术。
 
 | 🔎 观察问题 | 🧩 拆开机制 | 📦 做出产品 |
 | :---: | :---: | :---: |
 | 看见真实的需求和场景 | 找到关键变量与路径 | 让想法落地为可用的方案 |
 
-## 代表作 / SELECTED WORK
+<a id="selected-work"></a>
+
+## 主要项目 / SELECTED WORK
+
+从真实业务到个人实践，让作品说明判断。
 
 <table>
 <tr>
@@ -27,7 +44,7 @@
 <a href="https://github.com/CageEcho/xingce-travel-planner">查看项目 ↗</a>
 </td>
 <td width="50%" valign="middle">
-<a href="https://github.com/CageEcho/xingce-travel-planner"><img src="https://raw.githubusercontent.com/CageEcho/xingce-travel-planner/main/docs/screenshots/customer-proposal.png" alt="行策实际界面：客户版旅行方案预览" width="100%"/></a>
+<a href="https://github.com/CageEcho/xingce-travel-planner"><img src="./assets/xingce-workflow.svg" alt="行策流程示意：需求补全、资源检索、行程编排与顾问确认" width="100%"/></a>
 </td>
 </tr>
 </table>
@@ -45,7 +62,7 @@
 <p><a href="https://github.com/CageEcho/Tushu-Travel-book">查看项目 ↗</a></p>
 </td>
 <td width="50%" valign="middle">
-<a href="https://github.com/CageEcho/Tushu-Travel-book"><img src="https://raw.githubusercontent.com/CageEcho/Tushu-Travel-book/main/旅行助手/开发文档/证据包/本次更新-2026-09-30/04-动线结果-Day1结尾-今晚住哪-桌面.png" alt="途书旅记实际界面：按天动线与住宿推荐" width="100%"/></a>
+<a href="https://github.com/CageEcho/Tushu-Travel-book"><img src="./assets/tushu-workflow.svg" alt="途书旅记流程示意：攻略解析、地点确认、按天动线与导航交付" width="100%"/></a>
 </td>
 </tr>
 </table>
@@ -63,7 +80,7 @@
 <a href="https://github.com/CageEcho/zhihu-zhishu">查看项目 ↗</a>
 </td>
 <td width="50%" valign="middle">
-<a href="https://github.com/CageEcho/zhihu-zhishu"><img src="https://raw.githubusercontent.com/CageEcho/zhihu-zhishu/main/docs/screenshots/01-home.png" alt="知树实际界面：收藏到观点的知识树" width="100%"/></a>
+<a href="https://github.com/CageEcho/zhihu-zhishu"><img src="./assets/zhishu-workflow.svg" alt="知树机制示意：收藏、理由、异见、边界与观点文章" width="100%"/></a>
 </td>
 </tr>
 </table>
@@ -74,6 +91,10 @@
   <a href="https://github.com/CageEcho/zhihu-zhishu"><img src="https://img.shields.io/github/stars/CageEcho/zhihu-zhishu?style=flat-square&amp;label=知树&amp;color=49b68c" alt="知树 Stars"/></a>
 </p>
 
+<p align="center"><a href="https://github.com/CageEcho?tab=repositories">查看全部仓库 ↗</a></p>
+
+<a id="how-i-build"></a>
+
 ## 产品能力 / HOW I BUILD
 
 | 能力 | 我关注的事 |
@@ -83,10 +104,18 @@
 | **知识与评测** | 设计知识字段、来源标注和更新机制，用场景评测与 Bad Case 归因推动迭代。 |
 | **体验与交付** | 把需求落为 PRD、交互原型和可运行 Demo，覆盖关键状态、异常路径与验收。 |
 
-## 笼中对，聊什么？
+<a id="personal-page"></a>
+
+## 个人网页 / PERSONAL PAGE
+
+个人网页正在筹备，将集中展示产品案例、演示入口与实践复盘。正式地址确认后，这里的入口会同步开放。
+
+## 笼中对 / 思考与表达
 
 | 🤖 AI 产品 | 📄 产品拆解 | 📊 公开构建 |
 | :---: | :---: | :---: |
 | 从需求到交付 | 理解机制与体验 | 记录思考与复盘 |
+
+<p align="center"><a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a></p>
 
 <p align="center"><sub>小红书记录思考，GitHub 承接作品。<br/>让想法冲出笼子，让作品留下回声。</sub></p>
