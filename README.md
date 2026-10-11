@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#selected-work"><img src="./cageecho-profile-hero.svg" alt="笼中对 CageEcho · 张书洋 · AI 产品经理。认真想，也动手做，把复杂需求做成可用的 AI 产品。" width="100%" /></a>
+  <a href="#selected-work"><img src="./cageecho-signal-board.svg?v=blue-clouds-restored-20260902" alt="CageEcho Signal Board — 让想法冲出笼子，让作品留下回声" width="100%" /></a>
 </p>
 
 <p align="center">
