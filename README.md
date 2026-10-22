@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#selected-work"><img src="./assets/view-projects.svg" alt="查看主要项目" width="200"/></a>
   &nbsp;
-  <img src="./assets/personal-page-soon.svg" alt="个人网页筹备中，正式地址确认后开放" width="200"/>
+  <a href="https://cageecho.github.io/"><img src="./assets/personal-page.svg" alt="访问个人网页 cageecho.github.io" width="200"/></a>
 </p>
 
 <p align="center">
@@ -108,7 +108,9 @@
 
 ## 个人网页 / PERSONAL PAGE
 
-个人网页正在筹备，将集中展示产品案例、演示入口与实践复盘。正式地址确认后，这里的入口会同步开放。
+集中展示工作经历、产品案例（行策、途书旅记、知树）、演示入口与产品观，也可以在这里下载简历。
+
+<p align="center"><a href="https://cageecho.github.io/">cageecho.github.io ↗</a></p>
 
 ## 笼中对 / 思考与表达
 
