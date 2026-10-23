@@ -31,9 +31,9 @@
 <p align="right"><a href="https://s4un71nck60neho2ichmh.apigateway-cn-beijing.volceapi.com/">在线 Demo ↗</a> &nbsp;·&nbsp; <a href="https://github.com/CageEcho/zhihu-zhishu">开源代码 ↗</a>&nbsp;&nbsp;</p>
 
 <p align="center">
-  <a href="https://github.com/CageEcho/xingce-travel-planner"><img src="https://img.shields.io/github/stars/CageEcho/xingce-travel-planner?style=for-the-badge&amp;label=行策&amp;color=5A75FB&amp;labelColor=37383D" alt="行策 Stars"/></a>
-  <a href="https://github.com/CageEcho/Tushu-Travel-book"><img src="https://img.shields.io/github/stars/CageEcho/Tushu-Travel-book?style=for-the-badge&amp;label=途书旅记&amp;color=5A75FB&amp;labelColor=37383D" alt="途书旅记 Stars"/></a>
-  <a href="https://github.com/CageEcho/zhihu-zhishu"><img src="https://img.shields.io/github/stars/CageEcho/zhihu-zhishu?style=for-the-badge&amp;label=知树&amp;color=5A75FB&amp;labelColor=37383D" alt="知树 Stars"/></a>
+  <a href="https://github.com/CageEcho/xingce-travel-planner"><img src="https://img.shields.io/github/stars/CageEcho/xingce-travel-planner?style=for-the-badge&amp;label=Xingce&amp;color=5A75FB&amp;labelColor=37383D" alt="行策 Stars"/></a>
+  <a href="https://github.com/CageEcho/Tushu-Travel-book"><img src="https://img.shields.io/github/stars/CageEcho/Tushu-Travel-book?style=for-the-badge&amp;label=Tushu&amp;color=5A75FB&amp;labelColor=37383D" alt="途书旅记 Stars"/></a>
+  <a href="https://github.com/CageEcho/zhihu-zhishu"><img src="https://img.shields.io/github/stars/CageEcho/zhihu-zhishu?style=for-the-badge&amp;label=Zhishu&amp;color=5A75FB&amp;labelColor=37383D" alt="知树 Stars"/></a>
   <br/><a href="https://github.com/CageEcho?tab=repositories">查看全部仓库 ↗</a>
 </p>
 
