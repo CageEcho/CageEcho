@@ -3,10 +3,12 @@
   <a href="https://cageecho.github.io/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/v4/hero-website-static.svg"/><img src="./assets/v4/hero-website.svg" width="100%" alt="与个人网站首页一致：SHU YANG .AI、等距桌面插画、鸽小包和 AI × Product Thinking。张书洋 · AI 产品经理。"/></picture></a>
 </p>
 
+<a id="contact"></a>
+
 <p align="center">
-  <a href="#selected-work"><img src="./assets/v3/btn-work.svg" height="44" alt="查看主要项目"/></a>
-  &nbsp;
-  <a href="https://cageecho.github.io/"><img src="./assets/v3/btn-site.svg" height="44" alt="访问个人网页"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a> &nbsp;·&nbsp;
+  <a href="https://cageecho.github.io/">个人网页 ↗</a> &nbsp;·&nbsp;
+  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf">下载简历 ↗</a>
 </p>
 
 <a id="selected-work"></a>
@@ -40,11 +42,3 @@
     <td width="50%" align="center"><a href="https://github.com/CageEcho/zhihu-zhishu"><img src="./assets/v3/btn-source.svg" height="36" alt="知树：开源代码"/></a></td>
   </tr>
 </table>
-
-<a id="contact"></a>
-
-<p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a> &nbsp;·&nbsp;
-  <a href="https://cageecho.github.io/">个人网页 ↗</a> &nbsp;·&nbsp;
-  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf">下载简历 ↗</a>
-</p>
