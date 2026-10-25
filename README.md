@@ -6,8 +6,8 @@
 <a id="contact"></a>
 
 <p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502"><img src="./assets/v4/btn-xiaohongshu.svg?v=red-blue-20261026" width="178" height="44" alt="小红书 · 笼中对 ↗"/></a>
-  <a href="https://cageecho.github.io/"><img src="./assets/v4/btn-website.svg?v=red-blue-20261026" width="178" height="44" alt="访问个人网页 ↗"/></a>
+  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502"><img src="./assets/v4/btn-xiaohongshu-red.svg" width="178" height="44" alt="小红书 · 笼中对 ↗"/></a>
+  <a href="https://cageecho.github.io/"><img src="./assets/v4/btn-website-blue.svg" width="178" height="44" alt="访问个人网页 ↗"/></a>
   <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf"><img src="./assets/v4/btn-resume.svg" width="178" height="44" alt="下载简历 ↗"/></a>
 </p>
 
