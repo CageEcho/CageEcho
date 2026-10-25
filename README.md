@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <td colspan="2"><img src="./assets/v3/case-xingce.svg" width="100%" alt="行策 · 高端定制旅行方案生成平台：初稿 120→35 分钟，一次通过率 43%→67%"/></td>
+    <td colspan="2"><img src="./assets/v3/case-xingce.svg?v=outline-20261025" width="100%" alt="行策 · 高端定制旅行方案生成平台：初稿 120→35 分钟，一次通过率 43%→67%"/></td>
   </tr>
   <tr>
     <td width="50%" align="center"><a href="https://sbdn49ebov6bsukfs2496.apigateway-cn-beijing.volceapi.com/"><img src="./assets/v3/btn-demo.svg" height="36" alt="行策：在线 DEMO"/></a></td>
@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td colspan="2"><img src="./assets/v3/case-tushu.svg" width="100%" alt="途书旅记 · AI 旅行攻略与地图动线助手"/></td>
+    <td colspan="2"><img src="./assets/v3/case-tushu.svg?v=outline-20261025" width="100%" alt="途书旅记 · AI 旅行攻略与地图动线助手"/></td>
   </tr>
   <tr>
     <td width="50%" align="center"><a href="https://smmsnmesmo34k7l4t9e6g.apigateway-cn-beijing.volceapi.com/"><img src="./assets/v3/btn-demo.svg" height="36" alt="途书旅记：在线 DEMO"/></a></td>
@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td colspan="2"><img src="./assets/v3/case-zhishu.svg" width="100%" alt="知树 · AI 原生个人知识树 · 知乎黑客松：708 支队伍入围总决赛，188 名种子用户"/></td>
+    <td colspan="2"><img src="./assets/v3/case-zhishu.svg?v=outline-20261025" width="100%" alt="知树 · AI 原生个人知识树 · 知乎黑客松：708 支队伍入围总决赛，188 名种子用户"/></td>
   </tr>
   <tr>
     <td width="50%" align="center"><a href="https://s4un71nck60neho2ichmh.apigateway-cn-beijing.volceapi.com/"><img src="./assets/v3/btn-demo.svg" height="36" alt="知树：在线 DEMO"/></a></td>
