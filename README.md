@@ -6,9 +6,11 @@
 <a id="contact"></a>
 
 <p align="center">
-  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a> &nbsp;·&nbsp;
-  <a href="https://cageecho.github.io/">个人网页 ↗</a> &nbsp;·&nbsp;
-  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf">下载简历 ↗</a>
+  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502"><img src="./assets/v4/btn-xiaohongshu.svg" width="165" height="44" alt="小红书 · 笼中对 ↗"/></a>
+  &nbsp;&nbsp;
+  <a href="https://cageecho.github.io/"><img src="./assets/v4/btn-website.svg" width="165" height="44" alt="访问个人网页 ↗"/></a>
+  &nbsp;&nbsp;
+  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf"><img src="./assets/v4/btn-resume.svg" width="165" height="44" alt="下载简历 ↗"/></a>
 </p>
 
 <a id="selected-work"></a>
