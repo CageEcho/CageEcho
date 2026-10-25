@@ -10,7 +10,6 @@
 </p>
 
 <a id="selected-work"></a>
-<img src="./assets/v3/work-head.svg" width="100%" alt="02 / Selected Work：洞察、定义与验证"/>
 
 <table>
   <tr>
@@ -43,10 +42,9 @@
 </table>
 
 <a id="contact"></a>
-<a href="https://cageecho.github.io/"><img src="./assets/v3/footer.svg" width="100%" alt="03 / Contact：Let's Build. 让想法冲出笼子，让作品留下回声。"/></a>
 
 <p align="center">
+  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a> &nbsp;·&nbsp;
   <a href="https://cageecho.github.io/">个人网页 ↗</a> &nbsp;·&nbsp;
-  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf">下载简历 ↗</a> &nbsp;·&nbsp;
-  <a href="https://www.xiaohongshu.com/user/profile/5c34365e0000000005039502">小红书 · 笼中对 ↗</a>
+  <a href="https://cageecho.github.io/assets/zhangshuyang-ai-pm-resume.pdf">下载简历 ↗</a>
 </p>
